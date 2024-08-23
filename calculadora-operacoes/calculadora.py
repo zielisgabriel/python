@@ -53,5 +53,4 @@ def calculadora():
             
         else:
             print('Opção inválida!\n')
-
 calculadora()
